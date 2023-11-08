@@ -1,4 +1,4 @@
-[![LunasDream](banner.jpg)](https://github.com/LunasDream)
+[![LunasDream](https://github.com/LunasDream/.github/blob/main/profile/banner-ldm.png)](https://github.com/LunasDream)
 
 # LunasDream: Where Dreams Power Innovation in AI
 
