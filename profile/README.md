@@ -1,4 +1,4 @@
-[![LunasDream](banner.png)](https://github.com/LunasDream)
+[![LunasDream](banner-ldm.png)](https://github.com/LunasDream)
 
 # LunasDream: Advancing AI Technologies
 
