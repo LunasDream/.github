@@ -1,4 +1,4 @@
-[![LunasDream](https://ibb.co/z8JSF2t)](https://github.com/LunasDream)
+[![LunasDream](banner.jpg)](https://github.com/LunasDream)
 
 # LunasDream: Advancing AI Technologies
 
