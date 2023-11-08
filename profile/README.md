@@ -27,9 +27,8 @@ Explore our growing collection of open-source projects. These projects reflect o
 
 Some of our flagship projects include:
 
-- [Project Name 1](link_to_project_1): A brief description of the project.
-- [Project Name 2](link_to_project_2): A brief description of the project.
-- [Project Name 3](link_to_project_3): A brief description of the project.
+ ### Coming Soon
+
 
 ## How to Contribute
 
@@ -47,10 +46,7 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) to learn more about how
 
 Join us in our mission to drive AI innovation. Connect with us on our official communication channels:
 
-- [LunasDream Blog](https://blog.lunasdream.org)
-- [Discussions](https://github.com/LunasDream/discussions)
-- [Twitter](https://twitter.com/LunasDreamAI)
-- [Email](contact@lunasdream.org)
+- [Discord](https://discord.gg/FtJ2zCG4dH)
 
 We look forward to working together to shape the future of AI technology!
 
