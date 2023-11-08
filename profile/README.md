@@ -54,4 +54,4 @@ Join us in our mission to drive AI innovation. Connect with us on our official c
 
 We look forward to working together to shape the future of AI technology!
 
-![LunasDream Logo](logo.png)
+![LunasDream Logo](https://avatars.githubusercontent.com/u/150281680?s=200&v=4)
